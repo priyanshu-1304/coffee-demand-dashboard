@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CoffeeForecastProject
 
 This project contains a simple structure for a coffee sales forecasting application.
@@ -22,3 +23,6 @@ Run the app:
 ```bash
 streamlit run app.py
 ```
+=======
+# coffee-demand-dashboard
+>>>>>>> 65c611d8bd037ad168c4ef7c0e13e10b482966f0

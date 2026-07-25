@@ -1,7 +1,7 @@
-import plotly.express as px
-import streamlit as st
-import pandas as pd
-import openpyxl
-import numpy as np
-from sklearn.ensemble import RandomForestRegressor
-import matplotlib.pyplot as plt
+plotly
+streamlit
+pandas
+openpyxl
+numpy
+scikit-learn
+matplotlib
